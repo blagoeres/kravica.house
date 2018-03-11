@@ -2,5 +2,5 @@
 
 Kravica House website code.
 
-**Under Constriction** 👷🏻‍♀️👷🏻🚧🏗️
+**Under Constriction** 👷🏻🚧🏗️
 
