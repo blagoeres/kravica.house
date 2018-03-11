@@ -1,6 +1,6 @@
 # kravica.house
 
-Kravica House website code.
+Kravica House website source code.
 
 **Under Constriction** 👷🏻🚧🏗️
 
