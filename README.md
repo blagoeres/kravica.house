@@ -1,2 +1,6 @@
 # kravica.house
-Kravica House website boilerplate code
+
+Kravica House website code.
+
+**Under Constriction** 👷🏻‍♀️👷🏻🚧🏗️
+
